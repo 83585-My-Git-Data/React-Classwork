@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Cozy Cottage Retreat",
+    "description": "This charming cottage offers a tranquil escape from the hustle and bustle of city life. With a rustic interior and a lush garden, it's the perfect spot for relaxation.",
+    "address": "123 Maple Street",
+    "city": "Tranquilville",
+    "state": "California",
+    "zipCode": "90210",
+    "guestRooms": 2,
+    "bedRooms": 1,
+    "bathRooms": 1
+  },
+  {
+    "title": "Modern Urban Loft",
+    "description": "Embrace city living in this sleek and stylish loft apartment. Featuring contemporary design and panoramic views of the skyline, it's an ideal space for the modern urbanite.",
+    "address": "456 Elm Avenue",
+    "city": "Metropolis",
+    "state": "New York",
+    "zipCode": "10001",
+    "guestRooms": 0,
+    "bedRooms": 2,
+    "bathRooms": 2
+  },
+  {
+    "title": "Seaside Villa Paradise",
+    "description": "Experience coastal living at its finest in this luxurious seaside villa. With direct beach access and stunning ocean views, it's the ultimate retreat for beach lovers.",
+    "address": "789 Ocean Boulevard",
+    "city": "Seaview",
+    "state": "Florida",
+    "zipCode": "33139",
+    "guestRooms": 4,
+    "bedRooms": 3,
+    "bathRooms": 4
+  },
+  {
+    "title": "Mountain Cabin Hideaway",
+    "description": "Nestled in the heart of the mountains, this cozy cabin offers a peaceful escape surrounded by nature. Enjoy hiking trails and breathtaking views right outside your door.",
+    "address": "101 Pine Lane",
+    "city": "Mountainville",
+    "state": "Colorado",
+    "zipCode": "80302",
+    "guestRooms": 1,
+    "bedRooms": 2,
+    "bathRooms": 1
+  },
+  {
+    "title": "Elegant Historic Mansion",
+    "description": "Step back in time in this grand historic mansion, meticulously restored to its former glory. With opulent furnishings and sprawling gardens, it's a glimpse into the past.",
+    "address": "111 Heritage Drive",
+    "city": "Historicville",
+    "state": "Massachusetts",
+    "zipCode": "02108",
+    "guestRooms": 6,
+    "bedRooms": 5,
+    "bathRooms": 6
+  },
+  {
+    "title": "Lakeside Cabin Retreat",
+    "description": "Enjoy the serenity of lakefront living in this charming cabin nestled among towering pines. Fish off the dock or relax by the fire pit as you soak in the natural beauty.",
+    "address": "222 Lakeview Lane",
+    "city": "Serenity Springs",
+    "state": "Wisconsin",
+    "zipCode": "53202",
+    "guestRooms": 2,
+    "bedRooms": 1,
+    "bathRooms": 1
+  },
+  {
+    "title": "Contemporary City Condo",
+    "description": "Live in the heart of the city in this modern condo boasting sleek design and upscale amenities. With restaurants and shops just steps away, convenience is at your doorstep.",
+    "address": "333 Main Street",
+    "city": "Downtown",
+    "state": "Illinois",
+    "zipCode": "60601",
+    "guestRooms": 0,
+    "bedRooms": 1,
+    "bathRooms": 1
+  },
+  {
+    "title": "Rustic Farmhouse Getaway",
+    "description": "Experience the charm of country living in this quaint farmhouse surrounded by rolling fields. Relax on the porch swing or explore nearby vineyards and orchards.",
+    "address": "444 Farm Road",
+    "city": "Countryside",
+    "state": "Texas",
+    "zipCode": "77002",
+    "guestRooms": 3,
+    "bedRooms": 2,
+    "bathRooms": 2
+  },
+  {
+    "title": "Beachfront Bungalow Oasis",
+    "description": "Retreat to this tropical paradise with palm-fringed beaches and crystal-clear waters. This cozy bungalow offers a perfect escape for those seeking sun, sand, and sea.",
+    "address": "555 Beach Avenue",
+    "city": "Sunshine Bay",
+    "state": "Hawaii",
+    "zipCode": "96815",
+    "guestRooms": 1,
+    "bedRooms": 1,
+    "bathRooms": 1
+  },
+  {
+    "title": "Ski Chalet Wonderland",
+    "description": "Hit the slopes in style with this charming ski chalet nestled in the mountains. After a day on the slopes, unwind by the fireplace or soak in the hot tub under the stars.",
+    "address": "666 Slope Street",
+    "city": "Snowy Peaks",
+    "state": "Utah",
+    "zipCode": "84101",
+    "guestRooms": 4,
+    "bedRooms": 3,
+    "bathRooms": 2
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "userName": "John Doe",
+    "fromDate": "2024-06-10",
+    "toDate": "2024-06-15",
+    "rent": 500,
+    "propertyId": "1",
+    "propertyTitle": "Cozy Cottage Retreat",
+    "propertyAddress": "123 Maple Street, Tranquilville, California, 90210"
+  },
+  {
+    "userName": "Jane Smith",
+    "fromDate": "2024-07-01",
+    "toDate": "2024-07-10",
+    "rent": 1200,
+    "propertyId": "3",
+    "propertyTitle": "Seaside Villa Paradise",
+    "propertyAddress": "789 Ocean Boulevard, Seaview, Florida, 33139"
+  },
+  {
+    "userName": "Michael Johnson",
+    "fromDate": "2024-08-05",
+    "toDate": "2024-08-12",
+    "rent": 800,
+    "propertyId": "5",
+    "propertyTitle": "Lakeside Cabin Retreat",
+    "propertyAddress": "222 Lakeview Lane, Serenity Springs, Wisconsin, 53202"
+  },
+  {
+    "userName": "Emily Brown",
+    "fromDate": "2024-09-20",
+    "toDate": "2024-09-25",
+    "rent": 600,
+    "propertyId": "7",
+    "propertyTitle": "Contemporary City Condo",
+    "propertyAddress": "333 Main Street, Downtown, Illinois, 60601"
+  },
+  {
+    "userName": "David Martinez",
+    "fromDate": "2024-10-15",
+    "toDate": "2024-10-20",
+    "rent": 700,
+    "propertyId": "2",
+    "propertyTitle": "Modern Urban Loft",
+    "propertyAddress": "456 Elm Avenue, Metropolis, New York, 10001"
+  },
+  {
+    "userName": "Sarah Taylor",
+    "fromDate": "2024-11-10",
+    "toDate": "2024-11-20",
+    "rent": 900,
+    "propertyId": "4",
+    "propertyTitle": "Mountain Cabin Hideaway",
+    "propertyAddress": "101 Pine Lane, Mountainville, Colorado, 80302"
+  },
+  {
+    "userName": "Christopher Wilson",
+    "fromDate": "2024-12-01",
+    "toDate": "2024-12-10",
+    "rent": 1100,
+    "propertyId": "6",
+    "propertyTitle": "Elegant Historic Mansion",
+    "propertyAddress": "111 Heritage Drive, Historicville, Massachusetts, 02108"
+  },
+  {
+    "userName": "Amanda Garcia",
+    "fromDate": "2025-01-05",
+    "toDate": "2025-01-15",
+    "rent": 750,
+    "propertyId": "8",
+    "propertyTitle": "Rustic Farmhouse Getaway",
+    "propertyAddress": "444 Farm Road, Countryside, Texas, 77002"
+  },
+  {
+    "userName": "James Rodriguez",
+    "fromDate": "2025-02-10",
+    "toDate": "2025-02-20",
+    "rent": 850,
+    "propertyId": "9",
+    "propertyTitle": "Beachfront Bungalow Oasis",
+    "propertyAddress": "555 Beach Avenue, Sunshine Bay, Hawaii, 96815"
+  },
+  {
+    "userName": "Jennifer Lopez",
+    "fromDate": "2025-03-15",
+    "toDate": "2025-03-25",
+    "rent": 950,
+    "propertyId": "10",
+    "propertyTitle": "Ski Chalet Wonderland",
+    "propertyAddress": "666 Slope Street, Snowy Peaks, Utah, 84101"
+  }
+]
